@@ -1,1 +1,1 @@
-node: node bot.js
+node: node index.js
